@@ -1,0 +1,2726 @@
+[
+  {
+    "name": "Brazil",
+    "operators": [
+      {
+        "code": "72402",
+        "name": "TIM"
+      },
+      {
+        "code": "72405",
+        "name": "Claro"
+      },
+      {
+        "code": "72406",
+        "name": "Vivo"
+      },
+      {
+        "code": "72431",
+        "name": "Oi"
+      }
+    ]
+  },
+  {
+    "name": "Canada",
+    "operators": [
+      {
+        "code": "302370",
+        "name": "MicroCell"
+      },
+      {
+        "code": "30200001",
+        "name": "Fido Canada"
+      },
+      {
+        "code": "302220",
+        "name": "Telus"
+      },
+      {
+        "code": "302720",
+        "name": "Rogers A&T"
+      }
+    ]
+  },
+  {
+    "name": "Guinea-Bissau",
+    "operators": [
+      {
+        "code": "63203",
+        "name": "Orange"
+      },
+      {
+        "code": "63202",
+        "name": "Arreba"
+      }
+    ]
+  },
+  {
+    "name": "Kuwait",
+    "operators": [
+      {
+        "code": "41904",
+        "name": "Viva"
+      },
+      {
+        "code": "41903",
+        "name": "Wataniya"
+      },
+      {
+        "code": "41902",
+        "name": "zain KW"
+      }
+    ]
+  },
+  {
+    "name": "Panama",
+    "operators": [
+      {
+        "code": "71403",
+        "name": "Claro"
+      },
+      {
+        "code": "71401",
+        "name": "Cable & Wireless"
+      },
+      {
+        "code": "71404",
+        "name": "Digicel"
+      },
+      {
+        "code": "71402",
+        "name": "Movistar"
+      }
+    ]
+  },
+  {
+    "name": "Mali",
+    "operators": [
+      {
+        "code": "61002",
+        "name": "Orange"
+      },
+      {
+        "code": "61001",
+        "name": "Malitel"
+      }
+    ]
+  },
+  {
+    "name": "Lithuania",
+    "operators": [
+      {
+        "code": "24602",
+        "name": "BITE"
+      },
+      {
+        "code": "24603",
+        "name": "Tele 2"
+      },
+      {
+        "code": "24601",
+        "name": "Omnitel"
+      }
+    ]
+  },
+  {
+    "name": "Costa Rica",
+    "operators": [{
+      "code": "71203",
+      "name": "ICE"
+    }]
+  },
+  {
+    "name": "Cambodia",
+    "operators": [
+      {
+        "code": "45605",
+        "name": "Star-Cell"
+      },
+      {
+        "code": "45604",
+        "name": "qb"
+      },
+      {
+        "code": "45609",
+        "name": "Beeline"
+      },
+      {
+        "code": "45606",
+        "name": "Smart Mobile"
+      },
+      {
+        "code": "45601",
+        "name": "Mobitel"
+      },
+      {
+        "code": "45608",
+        "name": "Metfone"
+      },
+      {
+        "code": "45602",
+        "name": "hello"
+      },
+      {
+        "code": "45618",
+        "name": "Mfone"
+      }
+    ]
+  },
+  {
+    "name": "Bahamas",
+    "operators": [{
+      "code": "364390",
+      "name": "BaTelCo"
+    }]
+  },
+  {
+    "name": "Aruba",
+    "operators": [
+      {
+        "code": "36301",
+        "name": "SETAB"
+      },
+      {
+        "code": "36302",
+        "name": "Digicel"
+      }
+    ]
+  },
+  {
+    "name": "Arab Emirates",
+    "operators": [
+      {
+        "code": "42403",
+        "name": "du"
+      },
+      {
+        "code": "42402",
+        "name": "Etisalat"
+      }
+    ]
+  },
+  {
+    "name": "Ireland",
+    "operators": [
+      {
+        "code": "27207",
+        "name": "Eircom"
+      },
+      {
+        "code": "27201",
+        "name": "Vodafone"
+      },
+      {
+        "code": "27202",
+        "name": "O2"
+      },
+      {
+        "code": "27203",
+        "name": "Meteor"
+      }
+    ]
+  },
+  {
+    "name": "Argentina",
+    "operators": [
+      {
+        "code": "722330",
+        "name": "Claro"
+      },
+      {
+        "code": "722341",
+        "name": "Personnal"
+      },
+      {
+        "code": "722020",
+        "name": "Nextel"
+      },
+      {
+        "code": "722010",
+        "name": "Movistar"
+      }
+    ]
+  },
+  {
+    "name": "Bolivia",
+    "operators": [
+      {
+        "code": "73603",
+        "name": "Tigo"
+      },
+      {
+        "code": "73601",
+        "name": "Nuavatel"
+      },
+      {
+        "code": "73602",
+        "name": "Encel"
+      }
+    ]
+  },
+  {
+    "name": "Cameroon",
+    "operators": [
+      {
+        "code": "62402",
+        "name": "Orange"
+      },
+      {
+        "code": "62401",
+        "name": "MTN Cameroon"
+      }
+    ]
+  },
+  {
+    "name": "Burkina Faso",
+    "operators": [
+      {
+        "code": "61301",
+        "name": "Telmob"
+      },
+      {
+        "code": "61303",
+        "name": "Telecel Faso"
+      },
+      {
+        "code": "61302",
+        "name": "Zain"
+      }
+    ]
+  },
+  {
+    "name": "Cote Ivore",
+    "operators": [
+      {
+        "code": "61204",
+        "name": "Koz"
+      },
+      {
+        "code": "61204",
+        "name": "Moov"
+      }
+    ]
+  },
+  {
+    "name": "Czech Republic",
+    "operators": [
+      {
+        "code": "23002",
+        "name": "O2"
+      },
+      {
+        "code": "23003",
+        "name": "Vodafone"
+      },
+      {
+        "code": "23001",
+        "name": "T-Mobile"
+      }
+    ]
+  },
+  {
+    "name": "Bahrain",
+    "operators": [
+      {
+        "code": "42604",
+        "name": "VIVA"
+      },
+      {
+        "code": "42601",
+        "name": "BaTelCo"
+      },
+      {
+        "code": "42602",
+        "name": "zain BH"
+      }
+    ]
+  },
+  {
+    "name": "Saudi Arabia",
+    "operators": [
+      {
+        "code": "42003",
+        "name": "Mobily"
+      },
+      {
+        "code": "42004",
+        "name": "Zain SA"
+      },
+      {
+        "code": "42001",
+        "name": "Al Jawal"
+      }
+    ]
+  },
+  {
+    "name": "Australia",
+    "operators": [
+      {
+        "code": "50502",
+        "name": "Optus"
+      },
+      {
+        "code": "50509",
+        "name": "OneTel"
+      },
+      {
+        "code": "50503",
+        "name": "Vodafone"
+      },
+      {
+        "code": "50502",
+        "name": "Telstra Mobile"
+      }
+    ]
+  },
+  {
+    "name": "Columbia",
+    "operators": [
+      {
+        "code": "732002",
+        "name": "Edatel"
+      },
+      {
+        "code": "732101",
+        "name": "Comcel"
+      }
+    ]
+  },
+  {
+    "name": "Algeria",
+    "operators": [
+      {
+        "code": "60302",
+        "name": "Djezzy"
+      },
+      {
+        "code": "60301",
+        "name": "Mobilis"
+      },
+      {
+        "code": "60303",
+        "name": "Nedjma"
+      }
+    ]
+  },
+  {
+    "name": "El Salvador",
+    "operators": [
+      {
+        "code": "70611",
+        "name": "Claro"
+      },
+      {
+        "code": "70603",
+        "name": "Tigo"
+      },
+      {
+        "code": "70602",
+        "name": "Digicel"
+      },
+      {
+        "code": "70601",
+        "name": "CTE Telecom"
+      },
+      {
+        "code": "70604",
+        "name": "Movistar"
+      }
+    ]
+  },
+  {
+    "name": "Japan",
+    "operators": [
+      {
+        "code": "44008",
+        "name": "KDDI"
+      },
+      {
+        "code": "44004",
+        "name": "SoftBank"
+      },
+      {
+        "code": "44010",
+        "name": "DoCoMo"
+      },
+      {
+        "code": "44000",
+        "name": "eMobile"
+      },
+      {
+        "code": "44081",
+        "name": "TU-KA"
+      }
+    ]
+  },
+  {
+    "name": "Jordan",
+    "operators": [
+      {
+        "code": "41677",
+        "name": "Orange"
+      },
+      {
+        "code": "41603",
+        "name": "Umniah"
+      },
+      {
+        "code": "41601",
+        "name": "zain JO"
+      },
+      {
+        "code": "41602",
+        "name": "Xpress Telecom"
+      }
+    ]
+  },
+  {
+    "name": "Slovenia",
+    "operators": [
+      {
+        "code": "29341",
+        "name": "Mobitel"
+      },
+      {
+        "code": "29140",
+        "name": "Si.mobil"
+      },
+      {
+        "code": "29370",
+        "name": "Tusmobil"
+      }
+    ]
+  },
+  {
+    "name": "Guatemala",
+    "operators": [
+      {
+        "code": "70401",
+        "name": "Claro"
+      },
+      {
+        "code": "70402",
+        "name": "Comcel\\\\/Tigo"
+      },
+      {
+        "code": "70403",
+        "name": "Movistar"
+      }
+    ]
+  },
+  {
+    "name": "Chile",
+    "operators": [
+      {
+        "code": "73003",
+        "name": "Claro"
+      },
+      {
+        "code": "73009",
+        "name": "Nextel"
+      },
+      {
+        "code": "73001",
+        "name": "Entel"
+      },
+      {
+        "code": "73099",
+        "name": "Will"
+      },
+      {
+        "code": "73002",
+        "name": "Movistar"
+      },
+      {
+        "code": "73005",
+        "name": "VTR Movil"
+      }
+    ]
+  },
+  {
+    "name": "Belgium",
+    "operators": [
+      {
+        "code": "20610",
+        "name": "Mobistar"
+      },
+      {
+        "code": "20620",
+        "name": "Base"
+      },
+      {
+        "code": "20601",
+        "name": "Proximus"
+      },
+      {
+        "code": "20605",
+        "name": "Telenet"
+      }
+    ]
+  },
+  {
+    "name": "Germany",
+    "operators": [
+      {
+        "code": "26213",
+        "name": "MobilCom"
+      },
+      {
+        "code": "26203",
+        "name": "E-Plus"
+      },
+      {
+        "code": "26201",
+        "name": "T-Mobile"
+      },
+      {
+        "code": "26214",
+        "name": "Quam"
+      },
+      {
+        "code": "26207",
+        "name": "O2"
+      },
+      {
+        "code": "26202",
+        "name": "Vodafone"
+      }
+    ]
+  },
+  {
+    "name": "Haiti",
+    "operators": [
+      {
+        "code": "37202",
+        "name": "Digicel"
+      },
+      {
+        "code": "37201",
+        "name": "Voila"
+      }
+    ]
+  },
+  {
+    "name": "Belize",
+    "operators": [
+      {
+        "code": "70267",
+        "name": "Digicell"
+      },
+      {
+        "code": "70299",
+        "name": "Smart"
+      }
+    ]
+  },
+  {
+    "name": "Hong Kong",
+    "operators": [
+      {
+        "code": "45410",
+        "name": "New World PCS"
+      },
+      {
+        "code": "45400",
+        "name": "HK Telecom"
+      },
+      {
+        "code": "45406",
+        "name": "Smartone Mobile"
+      },
+      {
+        "code": "45412",
+        "name": "Peoples Telephone"
+      },
+      {
+        "code": "45422",
+        "name": "P Plus"
+      },
+      {
+        "code": "45418",
+        "name": "Pacific Link"
+      },
+      {
+        "code": "45404",
+        "name": "Hutchison"
+      },
+      {
+        "code": "45416",
+        "name": "Mandarin Com."
+      }
+    ]
+  },
+  {
+    "name": "Taiwan",
+    "operators": [
+      {
+        "code": "46699",
+        "name": "TransAsia"
+      },
+      {
+        "code": "46697",
+        "name": "TINGSM"
+      },
+      {
+        "code": "46688",
+        "name": "KG Telecom"
+      },
+      {
+        "code": "46606",
+        "name": "TUNTEX"
+      },
+      {
+        "code": "46692",
+        "name": "Chunghwa"
+      },
+      {
+        "code": "46601",
+        "name": "Far Eastone"
+      },
+      {
+        "code": "46693",
+        "name": "Mobitel"
+      }
+    ]
+  },
+  {
+    "name": "Spain",
+    "operators": [
+      {
+        "code": "21404",
+        "name": "Xfera"
+      },
+      {
+        "code": "21407",
+        "name": "Telefonica"
+      },
+      {
+        "code": "21403",
+        "name": "Amena"
+      },
+      {
+        "code": "21401",
+        "name": "Vodafone"
+      },
+      {
+        "code": "21402",
+        "name": "Movistar"
+      }
+    ]
+  },
+  {
+    "name": "Georgia",
+    "operators": [
+      {
+        "code": "28201",
+        "name": "Geocell"
+      },
+      {
+        "code": "28205",
+        "name": "SILKNET"
+      },
+      {
+        "code": "28203",
+        "name": "Iberiatel"
+      },
+      {
+        "code": "28204",
+        "name": "Beeline"
+      },
+      {
+        "code": "28202",
+        "name": "MagtiCom"
+      }
+    ]
+  },
+  {
+    "name": "Pakistan",
+    "operators": [
+      {
+        "code": "41004",
+        "name": "Zong"
+      },
+      {
+        "code": "41003",
+        "name": "Ufone"
+      },
+      {
+        "code": "41006",
+        "name": "Telenor"
+      },
+      {
+        "code": "41007",
+        "name": "Warid"
+      },
+      {
+        "code": "41001",
+        "name": "Mobilink"
+      },
+      {
+        "code": "41008",
+        "name": "Vodafone"
+      }
+    ]
+  },
+  {
+    "name": "Denmark",
+    "operators": [
+      {
+        "code": "23830",
+        "name": "Orange"
+      },
+      {
+        "code": "23800001",
+        "name": "Debitel"
+      },
+      {
+        "code": "23820",
+        "name": "Telia Denmark"
+      },
+      {
+        "code": "23801",
+        "name": "Denmark Mobil"
+      },
+      {
+        "code": "23802",
+        "name": "Sonofon"
+      }
+    ]
+  },
+  {
+    "name": "Philippines",
+    "operators": [
+      {
+        "code": "51505",
+        "name": "Sun"
+      },
+      {
+        "code": "51502",
+        "name": "Globe"
+      },
+      {
+        "code": "51501",
+        "name": "Islacom"
+      },
+      {
+        "code": "51503",
+        "name": "Smart"
+      }
+    ]
+  },
+  {
+    "name": "Vietnam",
+    "operators": [
+      {
+        "code": "45208",
+        "name": "3G EVNTelecom"
+      },
+      {
+        "code": "45203",
+        "name": "S-Fone"
+      },
+      {
+        "code": "45205",
+        "name": "Vietnam Mobile"
+      },
+      {
+        "code": "45206",
+        "name": "EVNTelecom"
+      },
+      {
+        "code": "45202",
+        "name": "Vinaphone"
+      },
+      {
+        "code": "45207",
+        "name": "Beeline VN"
+      },
+      {
+        "code": "45201",
+        "name": "MobiFone"
+      },
+      {
+        "code": "45204",
+        "name": "Viettel Mobile"
+      }
+    ]
+  },
+  {
+    "name": "Turkmenistan",
+    "operators": [
+      {
+        "code": "43801",
+        "name": "MTS"
+      },
+      {
+        "code": "43802",
+        "name": "TM-Cell"
+      }
+    ]
+  },
+  {
+    "name": "Moldova",
+    "operators": [
+      {
+        "code": "25901",
+        "name": "Orange"
+      },
+      {
+        "code": "25903",
+        "name": "Moldcell"
+      },
+      {
+        "code": "25903",
+        "name": "IDC"
+      }
+    ]
+  },
+  {
+    "name": "Morocco",
+    "operators": [
+      {
+        "code": "60401",
+        "name": "IAM"
+      },
+      {
+        "code": "60400",
+        "name": "Meditel"
+      },
+      {
+        "code": "60402",
+        "name": "INWI"
+      }
+    ]
+  },
+  {
+    "name": "Croatia",
+    "operators": [
+      {
+        "code": "21902",
+        "name": "Tele2"
+      },
+      {
+        "code": "21910",
+        "name": "VIPNet"
+      },
+      {
+        "code": "21901",
+        "name": "T-Mobile"
+      }
+    ]
+  },
+  {
+    "name": "Luxembourg",
+    "operators": [
+      {
+        "code": "27801",
+        "name": "Luxgsm"
+      },
+      {
+        "code": "27099",
+        "name": "Orange"
+      },
+      {
+        "code": "27077",
+        "name": "Tango"
+      }
+    ]
+  },
+  {
+    "name": "Antigua",
+    "operators": [
+      {
+        "code": "344030",
+        "name": "APUA"
+      },
+      {
+        "code": "338050",
+        "name": "Digicel"
+      },
+      {
+        "code": "344920",
+        "name": "LIME"
+      }
+    ]
+  },
+  {
+    "name": "Thailand",
+    "operators": [
+      {
+        "code": "52010",
+        "name": "Orange"
+      },
+      {
+        "code": "52023",
+        "name": "GSM 1800"
+      },
+      {
+        "code": "52018",
+        "name": "DTotal"
+      },
+      {
+        "code": "52001",
+        "name": "AIS"
+      }
+    ]
+  },
+  {
+    "name": "Switzerland",
+    "operators": [
+      {
+        "code": "22803",
+        "name": "Orange"
+      },
+      {
+        "code": "22801",
+        "name": "Swisscom"
+      },
+      {
+        "code": "22802",
+        "name": "Sunrise"
+      }
+    ]
+  },
+  {
+    "name": "Honduras",
+    "operators": [
+      {
+        "code": "70801",
+        "name": "Claro"
+      },
+      {
+        "code": "70840",
+        "name": "Digicel"
+      },
+      {
+        "code": "70830",
+        "name": "Hondutel"
+      }
+    ]
+  },
+  {
+    "name": "New Zealand",
+    "operators": [
+      {
+        "code": "53000",
+        "name": "Telecom"
+      },
+      {
+        "code": "53001",
+        "name": "Vodafone"
+      }
+    ]
+  },
+  {
+    "name": "Jamaica",
+    "operators": [
+      {
+        "code": "338070",
+        "name": "Claro"
+      },
+      {
+        "code": "338050",
+        "name": "Digicel"
+      },
+      {
+        "code": "338180",
+        "name": "LIME"
+      }
+    ]
+  },
+  {
+    "name": "Albania",
+    "operators": [
+      {
+        "code": "27601",
+        "name": "AMC"
+      },
+      {
+        "code": "27604",
+        "name": "Plus"
+      },
+      {
+        "code": "27602",
+        "name": "Vodafone"
+      },
+      {
+        "code": "27603",
+        "name": "Eagle Mobile"
+      }
+    ]
+  },
+  {
+    "name": "Estonia",
+    "operators": [
+      {
+        "code": "24801",
+        "name": "EMT"
+      },
+      {
+        "code": "24801",
+        "name": "Estonian Mobile"
+      },
+      {
+        "code": "24803",
+        "name": "Tele 2"
+      },
+      {
+        "code": "24802",
+        "name": "Elisa"
+      },
+      {
+        "code": "24802",
+        "name": "RadioLinja"
+      }
+    ]
+  },
+  {
+    "name": "Uruguay",
+    "operators": [
+      {
+        "code": "74801",
+        "name": "Ancel"
+      },
+      {
+        "code": "74810",
+        "name": "Claro"
+      },
+      {
+        "code": "74807",
+        "name": "Movistar"
+      }
+    ]
+  },
+  {
+    "name": "Nicaragua",
+    "operators": [
+      {
+        "code": "71021",
+        "name": "Claro"
+      },
+      {
+        "code": "71030",
+        "name": "Movistar"
+      }
+    ]
+  },
+  {
+    "name": "South Africa",
+    "operators": [
+      {
+        "code": "65501",
+        "name": "Vodacom"
+      },
+      {
+        "code": "65507",
+        "name": "Cell C"
+      },
+      {
+        "code": "65510",
+        "name": "MTN"
+      }
+    ]
+  },
+  {
+    "name": "India",
+    "operators": [
+      {
+        "code": "40412",
+        "name": "Escotel Mobile"
+      },
+      {
+        "code": "40407",
+        "name": "TATA Cellular"
+      },
+      {
+        "code": "40014",
+        "name": "Ina Spice"
+      },
+      {
+        "code": "40405",
+        "name": "Hutch"
+      },
+      {
+        "code": "40468",
+        "name": "Dolphin"
+      },
+      {
+        "code": "40584",
+        "name": "Videocon"
+      },
+      {
+        "code": "40422",
+        "name": "Idea"
+      },
+      {
+        "code": "40426",
+        "name": "Usha Martin Tel."
+      },
+      {
+        "code": "40020",
+        "name": "Orange"
+      },
+      {
+        "code": "40470",
+        "name": "Oasis"
+      },
+      {
+        "code": "40402",
+        "name": "Bharti Telecom"
+      },
+      {
+        "code": "40408",
+        "name": "Ushafon"
+      },
+      {
+        "code": "40401",
+        "name": "Airtel Digilink"
+      },
+      {
+        "code": "40455",
+        "name": "BSNL Mobile"
+      },
+      {
+        "code": "40440",
+        "name": "INA AIRTel"
+      },
+      {
+        "code": "40432",
+        "name": "Ushafone"
+      },
+      {
+        "code": "40421",
+        "name": "BPL USWest"
+      },
+      {
+        "code": "40441",
+        "name": "Spice"
+      }
+    ]
+  },
+  {
+    "name": "Azerbaijan",
+    "operators": [
+      {
+        "code": "40002",
+        "name": "Bakcell"
+      },
+      {
+        "code": "40001",
+        "name": "Azercell"
+      },
+      {
+        "code": "40004",
+        "name": "Nar Mobile"
+      },
+      {
+        "code": "40003",
+        "name": "FONEX"
+      }
+    ]
+  },
+  {
+    "name": "Uzbekistan",
+    "operators": [
+      {
+        "code": "73407",
+        "name": "MTS"
+      },
+      {
+        "code": "73405",
+        "name": "Ucell"
+      },
+      {
+        "code": "73404",
+        "name": "Beeline"
+      }
+    ]
+  },
+  {
+    "name": "Tunisia",
+    "operators": [
+      {
+        "code": "60501",
+        "name": "Orange"
+      },
+      {
+        "code": "60503",
+        "name": "Tunisiana"
+      },
+      {
+        "code": "60502",
+        "name": "Tunicell"
+      }
+    ]
+  },
+  {
+    "name": "Rwanda",
+    "operators": [
+      {
+        "code": "63513",
+        "name": "Tigo"
+      },
+      {
+        "code": "63510",
+        "name": "MTN"
+      }
+    ]
+  },
+  {
+    "name": "Colombia",
+    "operators": [
+      {
+        "code": "732111",
+        "name": "Tigo"
+      },
+      {
+        "code": "732102",
+        "name": "Movistar"
+      }
+    ]
+  },
+  {
+    "name": "Burundi",
+    "operators": [
+      {
+        "code": "64203",
+        "name": "Omatel"
+      },
+      {
+        "code": "64207",
+        "name": "Smart Mobile"
+      },
+      {
+        "code": "64201",
+        "name": "Spacetel"
+      },
+      {
+        "code": "64202",
+        "name": "Africell"
+      },
+      {
+        "code": "64282",
+        "name": "U-COM Burundi"
+      }
+    ]
+  },
+  {
+    "name": "Kenya",
+    "operators": [
+      {
+        "code": "69305",
+        "name": "yu"
+      },
+      {
+        "code": "63902",
+        "name": "Safaricom"
+      },
+      {
+        "code": "63907",
+        "name": "Orange Kenya"
+      }
+    ]
+  },
+  {
+    "name": "South Korea",
+    "operators": [
+      {
+        "code": "45005",
+        "name": "SKT"
+      },
+      {
+        "code": "45003",
+        "name": "Power 017"
+      },
+      {
+        "code": "45008",
+        "name": "Olleh"
+      },
+      {
+        "code": "45006",
+        "name": "LGT"
+      },
+      {
+        "code": "45002",
+        "name": "KT"
+      }
+    ]
+  },
+  {
+    "name": "Cyprus",
+    "operators": [
+      {
+        "code": "28010",
+        "name": "MTN"
+      },
+      {
+        "code": "28001",
+        "name": "Vodafone"
+      }
+    ]
+  },
+  {
+    "name": "Mamibia",
+    "operators": [
+      {
+        "code": "64901",
+        "name": "MTC"
+      },
+      {
+        "code": "64902",
+        "name": "Switch"
+      },
+      {
+        "code": "64903",
+        "name": "Leo"
+      }
+    ]
+  },
+  {
+    "name": "Turkey",
+    "operators": [
+      {
+        "code": "28603",
+        "name": "Avea"
+      },
+      {
+        "code": "28601",
+        "name": "Turkcell"
+      },
+      {
+        "code": "28602",
+        "name": "Vodafone"
+      }
+    ]
+  },
+  {
+    "name": "Qatar",
+    "operators": [
+      {
+        "code": "42701",
+        "name": "Qtel"
+      },
+      {
+        "code": "42702",
+        "name": "Vodafone"
+      }
+    ]
+  },
+  {
+    "name": "Netherlands Antilles",
+    "operators": [
+      {
+        "code": "36251",
+        "name": "Telcell"
+      },
+      {
+        "code": "36291",
+        "name": "UTS"
+      },
+      {
+        "code": "36269",
+        "name": "Digicel"
+      },
+      {
+        "code": "36295",
+        "name": "MIO"
+      },
+      {
+        "code": "36294",
+        "name": "Bayos"
+      }
+    ]
+  },
+  {
+    "name": "Italy",
+    "operators": [
+      {
+        "code": "22298",
+        "name": "BLU"
+      },
+      {
+        "code": "22299",
+        "name": "3"
+      },
+      {
+        "code": "22288",
+        "name": "Wind Tel."
+      },
+      {
+        "code": "22201",
+        "name": "Telecom Italia"
+      },
+      {
+        "code": "22210",
+        "name": "Vodafone"
+      }
+    ]
+  },
+  {
+    "name": "Bangladesh",
+    "operators": [
+      {
+        "code": "47004",
+        "name": "TeleTalk"
+      },
+      {
+        "code": "47001",
+        "name": "Gremenphone"
+      },
+      {
+        "code": "47005",
+        "name": "CityCell"
+      },
+      {
+        "code": "47003",
+        "name": "Banglalink"
+      },
+      {
+        "code": "47007",
+        "name": "Warid Telecom"
+      },
+      {
+        "code": "47006",
+        "name": "Airtel"
+      },
+      {
+        "code": "47002",
+        "name": "Robi"
+      }
+    ]
+  },
+  {
+    "name": "USA",
+    "operators": [
+      {
+        "code": "31011",
+        "name": "Wireless 2000"
+      },
+      {
+        "code": "31027",
+        "name": "Powertel"
+      },
+      {
+        "code": "31015",
+        "name": "BellSouth"
+      },
+      {
+        "code": "31031",
+        "name": "Aerial"
+      },
+      {
+        "code": "31077",
+        "name": "Iowa Wireless"
+      },
+      {
+        "code": "31026",
+        "name": "Western Wireless"
+      },
+      {
+        "code": "31017",
+        "name": "Cingular"
+      },
+      {
+        "code": "31038",
+        "name": "AT&T"
+      },
+      {
+        "code": "31002",
+        "name": "Sprint"
+      },
+      {
+        "code": "31020",
+        "name": "T-Mobile"
+      }
+    ]
+  },
+  {
+    "name": "Lebanon",
+    "operators": [
+      {
+        "code": "41505",
+        "name": "Ogero Mobile"
+      },
+      {
+        "code": "41501",
+        "name": "Alfa"
+      },
+      {
+        "code": "41503",
+        "name": "mtc touch"
+      }
+    ]
+  },
+  {
+    "name": "Hungary",
+    "operators": [
+      {
+        "code": "21630",
+        "name": "Westel GSM"
+      },
+      {
+        "code": "21601",
+        "name": "Pannon GSM"
+      },
+      {
+        "code": "21670",
+        "name": "Vodafone"
+      }
+    ]
+  },
+  {
+    "name": "Tanzania",
+    "operators": [
+      {
+        "code": "64006",
+        "name": "SasaTel"
+      },
+      {
+        "code": "64004",
+        "name": "Vodacom"
+      },
+      {
+        "code": "64007",
+        "name": "Life"
+      },
+      {
+        "code": "64002",
+        "name": "tiGO"
+      },
+      {
+        "code": "64003",
+        "name": "Zantel"
+      }
+    ]
+  },
+  {
+    "name": "Mongolia",
+    "operators": [
+      {
+        "code": "42891",
+        "name": "Skytel"
+      },
+      {
+        "code": "42888",
+        "name": "Unitel"
+      },
+      {
+        "code": "42899",
+        "name": "MobiCom"
+      },
+      {
+        "code": "42898",
+        "name": "G-Mobile"
+      }
+    ]
+  },
+  {
+    "name": "France",
+    "operators": [
+      {
+        "code": "20820",
+        "name": "Bouygues Telecom"
+      },
+      {
+        "code": "20801",
+        "name": "Orange"
+      },
+      {
+        "code": "20810",
+        "name": "SFR"
+      }
+    ]
+  },
+  {
+    "name": "Netherlands",
+    "operators": [
+      {
+        "code": "20412",
+        "name": "Telfort"
+      },
+      {
+        "code": "20402",
+        "name": "Tele 2"
+      },
+      {
+        "code": "20416",
+        "name": "T-Mobile"
+      },
+      {
+        "code": "20414",
+        "name": "6GMobile"
+      },
+      {
+        "code": "20404",
+        "name": "Vodafone"
+      },
+      {
+        "code": "20420",
+        "name": "Orange"
+      },
+      {
+        "code": "20408",
+        "name": "KPN"
+      }
+    ]
+  },
+  {
+    "name": "Slovakia",
+    "operators": [
+      {
+        "code": "23101",
+        "name": "Orange"
+      },
+      {
+        "code": "23106",
+        "name": "O2"
+      },
+      {
+        "code": "23102",
+        "name": "T-Mobile"
+      }
+    ]
+  },
+  {
+    "name": "Peru",
+    "operators": [
+      {
+        "code": "71610",
+        "name": "Claro"
+      },
+      {
+        "code": "71607",
+        "name": "NEXTEL"
+      },
+      {
+        "code": "21606",
+        "name": "Movistar"
+      }
+    ]
+  },
+  {
+    "name": "Laos",
+    "operators": [
+      {
+        "code": "45703",
+        "name": "Unitel"
+      },
+      {
+        "code": "45701",
+        "name": "LaoTel"
+      },
+      {
+        "code": "45708",
+        "name": "Tigo"
+      },
+      {
+        "code": "45702",
+        "name": "ETL"
+      }
+    ]
+  },
+  {
+    "name": "Norway",
+    "operators": [
+      {
+        "code": "24201",
+        "name": "Telenor"
+      },
+      {
+        "code": "24202",
+        "name": "NetCom"
+      }
+    ]
+  },
+  {
+    "name": "Nigeria",
+    "operators": [
+      {
+        "code": "62140",
+        "name": "M-TEL"
+      },
+      {
+        "code": "62150",
+        "name": "Glo"
+      },
+      {
+        "code": "62130",
+        "name": "MTN"
+      },
+      {
+        "code": "62120",
+        "name": "Airtel"
+      },
+      {
+        "code": "62160",
+        "name": "Etsalat"
+      }
+    ]
+  },
+  {
+    "name": "Benin",
+    "operators": [
+      {
+        "code": "61602",
+        "name": "Moov"
+      },
+      {
+        "code": "61601",
+        "name": "Libercom"
+      },
+      {
+        "code": "61603",
+        "name": "MTN"
+      },
+      {
+        "code": "BBCOM",
+        "name": "BBCOM"
+      },
+      {
+        "code": "61605",
+        "name": "Glo"
+      }
+    ]
+  },
+  {
+    "name": "Israel",
+    "operators": [
+      {
+        "code": "42501",
+        "name": "Orange"
+      },
+      {
+        "code": "42505",
+        "name": "JAWAL"
+      },
+      {
+        "code": "42502",
+        "name": "Cellcom"
+      }
+    ]
+  },
+  {
+    "name": "Singapore",
+    "operators": [
+      {
+        "code": "52205",
+        "name": "StarHub"
+      },
+      {
+        "code": "52501",
+        "name": "GSM 900"
+      },
+      {
+        "code": "52502",
+        "name": "GSM 1800"
+      },
+      {
+        "code": "52503",
+        "name": "MobileOne Asia"
+      },
+      {
+        "code": "52504",
+        "name": "M1-3GSM"
+      }
+    ]
+  },
+  {
+    "name": "Iceland",
+    "operators": [
+      {
+        "code": "27401",
+        "name": "Simmin"
+      },
+      {
+        "code": "27402",
+        "name": "Vodafone"
+      }
+    ]
+  },
+  {
+    "name": "Senegal",
+    "operators": [
+      {
+        "code": "60801",
+        "name": "Orange"
+      },
+      {
+        "code": "60803",
+        "name": "Expresso"
+      },
+      {
+        "code": "60802",
+        "name": "Tigo"
+      }
+    ]
+  },
+  {
+    "name": "Papua New Guinea",
+    "operators": [
+      {
+        "code": "53701",
+        "name": "B-Mobile"
+      },
+      {
+        "code": "53703",
+        "name": "Digicel"
+      }
+    ]
+  },
+  {
+    "name": "Togo",
+    "operators": [
+      {
+        "code": "61501",
+        "name": "Togo Cell"
+      },
+      {
+        "code": "61503",
+        "name": "Moov"
+      }
+    ]
+  },
+  {
+    "name": "Trinidad and Tobago",
+    "operators": [
+      {
+        "code": "37413",
+        "name": "Digicel"
+      },
+      {
+        "code": "37412",
+        "name": "Bmobile"
+      }
+    ]
+  },
+  {
+    "name": "China",
+    "operators": [
+      {
+        "code": "46005",
+        "name": "China Telecom"
+      },
+      {
+        "code": "46020",
+        "name": "China Tietong"
+      },
+      {
+        "code": "46000",
+        "name": "China Mobile"
+      },
+      {
+        "code": "46001",
+        "name": "China Unicom"
+      }
+    ]
+  },
+  {
+    "name": "Ecuador",
+    "operators": [
+      {
+        "code": "74001",
+        "name": "Porta"
+      },
+      {
+        "code": "74002",
+        "name": "Alegro"
+      },
+      {
+        "code": "74000",
+        "name": "Movistar"
+      }
+    ]
+  },
+  {
+    "name": "Armenia",
+    "operators": [
+      {
+        "code": "28310",
+        "name": "Orange"
+      },
+      {
+        "code": "28305",
+        "name": "VivaCell"
+      },
+      {
+        "code": "28301",
+        "name": "Beeline"
+      }
+    ]
+  },
+  {
+    "name": "Oman",
+    "operators": [
+      {
+        "code": "41202",
+        "name": "Oman Mobile"
+      },
+      {
+        "code": "42203",
+        "name": "Nawras"
+      }
+    ]
+  },
+  {
+    "name": "Tajikistan",
+    "operators": [
+      {
+        "code": "43604",
+        "name": "Babilon-M"
+      },
+      {
+        "code": "43605",
+        "name": "Beeline"
+      },
+      {
+        "code": "43603",
+        "name": "MLT"
+      },
+      {
+        "code": "43602",
+        "name": "Tcell"
+      }
+    ]
+  },
+  {
+    "name": "Dominican Republic",
+    "operators": [
+      {
+        "code": "37001",
+        "name": "Orange"
+      },
+      {
+        "code": "37003",
+        "name": "Tricom"
+      },
+      {
+        "code": "37002",
+        "name": "Claro"
+      },
+      {
+        "code": "37004",
+        "name": "Viva"
+      }
+    ]
+  },
+  {
+    "name": "Kazakhstan",
+    "operators": [
+      {
+        "code": "40101",
+        "name": "Beeline"
+      },
+      {
+        "code": "40102",
+        "name": "Kcell"
+      }
+    ]
+  },
+  {
+    "name": "Poland",
+    "operators": [
+      {
+        "code": "26002",
+        "name": "ERA GSM"
+      },
+      {
+        "code": "26003",
+        "name": "IDA Centertel"
+      },
+      {
+        "code": "26006",
+        "name": "Play"
+      },
+      {
+        "code": "26001",
+        "name": "Polkomtel PLUS"
+      }
+    ]
+  },
+  {
+    "name": "Ukraine",
+    "operators": [
+      {
+        "code": "25501",
+        "name": "MTS"
+      },
+      {
+        "code": "25503",
+        "name": "kylvstar"
+      },
+      {
+        "code": "25502",
+        "name": "Beeline"
+      },
+      {
+        "code": "25507",
+        "name": "Life"
+      }
+    ]
+  },
+  {
+    "name": "Ghana",
+    "operators": [
+      {
+        "code": "62003",
+        "name": "tiGO"
+      },
+      {
+        "code": "62001",
+        "name": "MTN"
+      },
+      {
+        "code": "62006",
+        "name": "Airtel"
+      },
+      {
+        "code": "62002",
+        "name": "Vodafone"
+      }
+    ]
+  },
+  {
+    "name": "Kyrgyzstan",
+    "operators": [
+      {
+        "code": "43705",
+        "name": "MegaCom"
+      },
+      {
+        "code": "43701",
+        "name": "Beeline"
+      },
+      {
+        "code": "43709",
+        "name": "O"
+      },
+      {
+        "code": "43703",
+        "name": "Fonex"
+      }
+    ]
+  },
+  {
+    "name": "Indonesia",
+    "operators": [
+      {
+        "code": "51027",
+        "name": "Ceria"
+      },
+      {
+        "code": "51011",
+        "name": "XL"
+      },
+      {
+        "code": "51003",
+        "name": "StarOne"
+      },
+      {
+        "code": "51020",
+        "name": "TELKOMMobile"
+      },
+      {
+        "code": "51000",
+        "name": "PSN"
+      },
+      {
+        "code": "51009",
+        "name": "SMART"
+      },
+      {
+        "code": "51008",
+        "name": "AXIS"
+      },
+      {
+        "code": "51007",
+        "name": "TelkomFlexi"
+      },
+      {
+        "code": "51028",
+        "name": "Fren\\\\/Hepi"
+      },
+      {
+        "code": "51089",
+        "name": "3"
+      },
+      {
+        "code": "51010",
+        "name": "Telkomsel"
+      },
+      {
+        "code": "51001",
+        "name": "INDOSAT"
+      }
+    ]
+  },
+  {
+    "name": "Finland",
+    "operators": [
+      {
+        "code": "24405",
+        "name": "Radjolinja"
+      },
+      {
+        "code": "24409",
+        "name": "Finnet Group"
+      },
+      {
+        "code": "24412",
+        "name": "2G"
+      },
+      {
+        "code": "24403",
+        "name": "Telia Finland"
+      },
+      {
+        "code": "24409",
+        "name": "Sonera Corp."
+      },
+      {
+        "code": "24414",
+        "name": "AMT"
+      }
+    ]
+  },
+  {
+    "name": "Macedonia",
+    "operators": [
+      {
+        "code": "29403",
+        "name": "VIP MK"
+      },
+      {
+        "code": "29401",
+        "name": "T-Mobile MK"
+      },
+      {
+        "code": "29402",
+        "name": "ONE"
+      }
+    ]
+  },
+  {
+    "name": "Sri Lanka",
+    "operators": [
+      {
+        "code": "41301",
+        "name": "Mobitel"
+      },
+      {
+        "code": "41308",
+        "name": "Hutch"
+      },
+      {
+        "code": "41303",
+        "name": "Etisalat"
+      },
+      {
+        "code": "41305",
+        "name": "Airtel"
+      },
+      {
+        "code": "41302",
+        "name": "Dialog"
+      }
+    ]
+  },
+  {
+    "name": "Sweden",
+    "operators": [
+      {
+        "code": "24003",
+        "name": "Orange"
+      },
+      {
+        "code": "24008",
+        "name": "Vodafone"
+      },
+      {
+        "code": "24002",
+        "name": "3 Sweden"
+      },
+      {
+        "code": "24001",
+        "name": "Telia Mobitel"
+      },
+      {
+        "code": "24007",
+        "name": "Comviq"
+      }
+    ]
+  },
+  {
+    "name": "Belarus",
+    "operators": [
+      {
+        "code": "25702",
+        "name": "MTS"
+      },
+      {
+        "code": "25704",
+        "name": "Life"
+      },
+      {
+        "code": "25701",
+        "name": "Velcom"
+      },
+      {
+        "code": "25703",
+        "name": "DIALLOG"
+      }
+    ]
+  },
+  {
+    "name": "Cap Verde",
+    "operators": [
+      {
+        "code": "62502",
+        "name": "T+"
+      },
+      {
+        "code": "62501",
+        "name": "CVMOVEL"
+      }
+    ]
+  },
+  {
+    "name": "Nepal",
+    "operators": [
+      {
+        "code": "42903",
+        "name": "Sky\\\\/C-Phone"
+      },
+      {
+        "code": "42904",
+        "name": "SmartCell"
+      },
+      {
+        "code": "42904",
+        "name": "Ncell"
+      },
+      {
+        "code": "42901",
+        "name": "Namaste\\\\/NT Mobile"
+      }
+    ]
+  },
+  {
+    "name": "Russia",
+    "operators": [
+      {
+        "code": "25044",
+        "name": "North Caucasian"
+      },
+      {
+        "code": "25002",
+        "name": "Megafon"
+      },
+      {
+        "code": "25099",
+        "name": "BeeLine"
+      },
+      {
+        "code": "25012",
+        "name": "New Telephone Cy"
+      },
+      {
+        "code": "25010",
+        "name": "Don Telecom"
+      },
+      {
+        "code": "25001",
+        "name": "MTS Moscow"
+      },
+      {
+        "code": "25039",
+        "name": "Uratel"
+      },
+      {
+        "code": "25213",
+        "name": "Kuban GSM"
+      },
+      {
+        "code": "25007",
+        "name": "Zao Smarts"
+      },
+      {
+        "code": "25005",
+        "name": "Siberian Cellular"
+      }
+    ]
+  },
+  {
+    "name": "Bulgaria",
+    "operators": [
+      {
+        "code": "28401",
+        "name": "M-Tel"
+      },
+      {
+        "code": "28401",
+        "name": "Vivatel"
+      },
+      {
+        "code": "28405",
+        "name": "Globul"
+      }
+    ]
+  },
+  {
+    "name": "Romania",
+    "operators": [
+      {
+        "code": "22601",
+        "name": "Mobifon"
+      },
+      {
+        "code": "22603",
+        "name": "Cosmorom"
+      },
+      {
+        "code": "22610",
+        "name": "Mobil Rom"
+      }
+    ]
+  },
+  {
+    "name": "Angola",
+    "operators": [{
+      "code": "63102",
+      "name": "Unitel"
+    }]
+  },
+  {
+    "name": "Portugal",
+    "operators": [
+      {
+        "code": "26806",
+        "name": "Telecom Moveis"
+      },
+      {
+        "code": "26803",
+        "name": "Optimus Telecom"
+      },
+      {
+        "code": "26801",
+        "name": "Vodafone"
+      }
+    ]
+  },
+  {
+    "name": "Mexico",
+    "operators": [
+      {
+        "code": "33402",
+        "name": "Telcel"
+      },
+      {
+        "code": "33405",
+        "name": "Lusacell"
+      },
+      {
+        "code": "33401",
+        "name": "Nextel"
+      },
+      {
+        "code": "33403",
+        "name": "Movistar"
+      }
+    ]
+  },
+  {
+    "name": "Egypt",
+    "operators": [
+      {
+        "code": "60203",
+        "name": "Etisalat"
+      },
+      {
+        "code": "60202",
+        "name": "Vodafone"
+      },
+      {
+        "code": "60201",
+        "name": "Mobinil"
+      }
+    ]
+  },
+  {
+    "name": "Fiji",
+    "operators": [
+      {
+        "code": "54202",
+        "name": "Digicel"
+      },
+      {
+        "code": "54201",
+        "name": "Vodafone"
+      }
+    ]
+  },
+  {
+    "name": "Serbia",
+    "operators": [
+      {
+        "code": "22001",
+        "name": "Telenor"
+      },
+      {
+        "code": "22005",
+        "name": "VIP Mobile"
+      },
+      {
+        "code": "22003",
+        "name": "Telekom Srbija"
+      }
+    ]
+  },
+  {
+    "name": "Botswana",
+    "operators": [
+      {
+        "code": "65202",
+        "name": "Orange"
+      },
+      {
+        "code": "65201",
+        "name": "Mascom"
+      },
+      {
+        "code": "65203",
+        "name": "BTC Mobile"
+      }
+    ]
+  },
+  {
+    "name": "United Kingdom",
+    "operators": [
+      {
+        "code": "23420",
+        "name": "3"
+      },
+      {
+        "code": "23450",
+        "name": "Manx Pronto"
+      },
+      {
+        "code": "23433",
+        "name": "Orange"
+      },
+      {
+        "code": "23450",
+        "name": "Jersey Telecom"
+      },
+      {
+        "code": "23455",
+        "name": "Guermsey Tel."
+      },
+      {
+        "code": "23410",
+        "name": "O2"
+      },
+      {
+        "code": "23415",
+        "name": "Vodafone"
+      },
+      {
+        "code": "23430",
+        "name": "T-Mobile"
+      }
+    ]
+  },
+  {
+    "name": "Malaysia",
+    "operators": [
+      {
+        "code": "50219",
+        "name": "Celcom"
+      },
+      {
+        "code": "50218",
+        "name": "U Mobilz"
+      },
+      {
+        "code": "50212",
+        "name": "Maxis"
+      },
+      {
+        "code": "50216",
+        "name": "DiGi"
+      },
+      {
+        "code": "50201",
+        "name": "TM CDMA"
+      }
+    ]
+  },
+  {
+    "name": "Austria",
+    "operators": [
+      {
+        "code": "23101",
+        "name": "Mobilkom"
+      },
+      {
+        "code": "23205",
+        "name": "Tele.ring"
+      },
+      {
+        "code": "23203",
+        "name": "T-Mobile"
+      },
+      {
+        "code": "23210",
+        "name": "3AT"
+      }
+    ]
+  },
+  {
+    "name": "Latvia",
+    "operators": [
+      {
+        "code": "24702",
+        "name": "Tele 2"
+      },
+      {
+        "code": "24701",
+        "name": "Latvian Mobile"
+      }
+    ]
+  },
+  {
+    "name": "Mozambique",
+    "operators": [
+      {
+        "code": "64304",
+        "name": "Vodacom"
+      },
+      {
+        "code": "64301",
+        "name": "mCel"
+      }
+    ]
+  },
+  {
+    "name": "Uganda",
+    "operators": [
+      {
+        "code": "64114",
+        "name": "Orange"
+      },
+      {
+        "code": "64110",
+        "name": "MTN"
+      },
+      {
+        "code": "64101",
+        "name": "Zain"
+      },
+      {
+        "code": "64122",
+        "name": "Warid Telecom"
+      }
+    ]
+  },
+  {
+    "name": "Greece",
+    "operators": [
+      {
+        "code": "20210",
+        "name": "Telestet"
+      },
+      {
+        "code": "20201",
+        "name": "Cosmote"
+      },
+      {
+        "code": "20209",
+        "name": "Wind"
+      },
+      {
+        "code": "20205",
+        "name": "Vodafone"
+      }
+    ]
+  },
+  {
+    "name": "Paraguay",
+    "operators": [
+      {
+        "code": "74405",
+        "name": "Personal"
+      },
+      {
+        "code": "74402",
+        "name": "Claro"
+      },
+      {
+        "code": "74404",
+        "name": "Tigo"
+      },
+      {
+        "code": "74406",
+        "name": "VOX"
+      }
+    ]
+  },
+  {
+    "name": "Gabon",
+    "operators": [
+      {
+        "code": "62801",
+        "name": "Liberts"
+      },
+      {
+        "code": "62804",
+        "name": "Azur"
+      },
+      {
+        "code": "62803",
+        "name": "Airtel"
+      },
+      {
+        "code": "62802",
+        "name": "Moov"
+      }
+    ]
+  },
+  {
+    "name": "Niger",
+    "operators": [
+      {
+        "code": "61404",
+        "name": "Orange"
+      },
+      {
+        "code": "61402",
+        "name": "Airtel"
+      },
+      {
+        "code": "61401",
+        "name": "SahelCom"
+      },
+      {
+        "code": "61403",
+        "name": "Telecel"
+      }
+    ]
+  },
+  {
+    "name": "Bosnia-Herzegovina",
+    "operators": [
+      {
+        "code": "21890",
+        "name": "BH Mobile"
+      },
+      {
+        "code": "21805",
+        "name": "m:tel"
+      },
+      {
+        "code": "21803",
+        "name": "HT-ERONET"
+      }
+    ]
+  }
+]
